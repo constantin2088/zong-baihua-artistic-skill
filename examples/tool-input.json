@@ -1,0 +1,19 @@
+{
+  "intents": [
+    "宁静"
+  ],
+  "elements": [
+    {
+      "id": "e1",
+      "intent": "宁静",
+      "observation": "标题周围留白",
+      "reason": "减少视觉争夺"
+    }
+  ],
+  "required_info": [
+    {
+      "id": "日期",
+      "visible": true
+    }
+  ]
+}
